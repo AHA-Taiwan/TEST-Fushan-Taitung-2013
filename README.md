@@ -20,7 +20,7 @@
 003. Material：材料清單<br/>
 004. Tools：工具清冊<br/>
 005. Training Methods：施工手冊<br/>
-![](https://drive.google.com/file/d/1M7lHuGskuy8omjdfgiTvnw4Gdns7l0xj/view?usp=sharing)<br/>
+![image](https://drive.google.com/file/d/1M7lHuGskuy8omjdfgiTvnw4Gdns7l0xj/view?usp=sharing)
 合作建造手冊：https://github.com/AHA-Taiwan/Collaborative-Construction-Quick-Guide/wiki <br/>
 ***
 ## 施工培訓教材：<br/>
