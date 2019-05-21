@@ -12,6 +12,7 @@
 設計概述：https://ahaformosa.blogspot.com/2014/09/2013.html <br/>
 臉書紀錄：https://www.facebook.com/NCTUyichu <br/>
 基地位置：https://goo.gl/maps/Urex3Vk37Q7hdoE89 <br/>
+數位模型：https://skfb.ly/6KEXO<br/>
 ***
 ## Quick Guide，合作建造手冊：<br/>
 合作建造手冊使用說明：https://github.com/AHA-Taiwan/Collaborative-Construction-Quick-Guide/wiki <br/>
