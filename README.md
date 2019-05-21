@@ -14,14 +14,14 @@
 基地位置：https://goo.gl/maps/Urex3Vk37Q7hdoE89 <br/>
 ***
 ## Quick Guide，合作建造手冊：<br/>
-快速上手，自己打造自然構造，資料夾使用說明：<br/>
+合作建造手冊使用說明：https://github.com/AHA-Taiwan/Collaborative-Construction-Quick-Guide/wiki <br/>
+資料夾使用說明：<br/>
 001. Blueprint：關於設計圖<br/>
 002. Human Resources：關於人力佈局、分組分工<br/>
 003. Material：材料清單<br/>
 004. Tools：工具清冊<br/>
 005. Training Methods：施工手冊<br/>
 ![](https://github.com/AHA-Taiwan/TEST-Fushan-Taitung-2013/blob/master/005-1.%20Category.png)
-合作建造手冊：https://github.com/AHA-Taiwan/Collaborative-Construction-Quick-Guide/wiki <br/>
 ***
 ## 施工培訓教材：<br/>
 Long-term Courses<br/>
