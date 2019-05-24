@@ -13,6 +13,7 @@
 臉書紀錄：https://www.facebook.com/NCTUyichu <br/>
 基地位置：https://goo.gl/maps/Urex3Vk37Q7hdoE89 <br/>
 數位模型：https://skfb.ly/6KEXO<br/>
+![工序步驟](https://github.com/AHA-Taiwan/TEST-Fushan-Taitung-2013/blob/master/005.%20Training%20Methods/Handbook.gif)
 ***
 ## Quick Guide，合作建造手冊：<br/>
 合作建造手冊使用說明：https://github.com/AHA-Taiwan/Collaborative-Construction-Quick-Guide/wiki <br/>
