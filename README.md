@@ -65,8 +65,10 @@
    * [營造安全衛生設施標準圖解](https://reurl.cc/700xl) <br>
 ***
 ## 工具租借：<br/>
-工具圖書館：https://github.com/AHA-Taiwan/Tool-Library
+AHA 工具圖書館：https://github.com/AHA-Taiwan/Tool-Library
 ***
-
+## 實作支持系統：<br/>
+合作建造的資源探索：https://reurl.cc/p4lnr
+***
 > #### 歡迎參與專案開發，Branch合併可向專案管理者提出請求
 
