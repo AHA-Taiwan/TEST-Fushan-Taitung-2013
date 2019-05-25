@@ -42,7 +42,7 @@
    * 21堂木工短講：https://reurl.cc/gpd5N <br/>
    * 09堂基礎示範：https://reurl.cc/LLEGL <br/>
 * 現場教學 Handbook<br/>
-   * 施工手冊：https://reurl.cc/WMnmy <br/>
+   * 現場施工手冊：https://reurl.cc/WMnmy <br/>
 ***
 ## 施工安全說明：<br/>
 * **為參與者，投保工作保險**<br/>
