@@ -44,9 +44,6 @@
 * 現場教學 Handbook<br/>
    * 施工手冊：https://reurl.cc/WMnmy <br/>
 ***
-## 工具租借：<br/>
-工具圖書館：https://github.com/AHA-Taiwan/Tool-Library
-***
 ## 施工安全說明：<br/>
 * **為參與者，投保工作保險**<br/>
 ```
@@ -66,6 +63,9 @@
 ```
    * [內政部營建署勞工安全衛生工作守則](https://reurl.cc/YEEzo) <br>
    * [營造安全衛生設施標準圖解](https://reurl.cc/700xl) <br>
+***
+## 工具租借：<br/>
+工具圖書館：https://github.com/AHA-Taiwan/Tool-Library
 ***
 
 > #### 歡迎參與專案開發，Branch合併可向專案管理者提出請求
