@@ -37,7 +37,7 @@
 * 長期課程 Long-term Courses<br/>
    * 多種木工輔助教學：https://www.youtube.com/watch?v=pnGrmdY-lMs <br/>
    * 修邊及修邊機教學：https://www.youtube.com/watch?v=o2khT5w8vWg <br/>
-直角導板製作教學：https://www.youtube.com/watch?v=HI0hIO2WtlA <br/>
+   * 直角導板製作教學：https://www.youtube.com/watch?v=HI0hIO2WtlA <br/>
 * 短期訓練 Short-term Training<br/>
    * 21堂木工短講：https://reurl.cc/gpd5N <br/>
    * 09堂基礎示範：https://reurl.cc/LLEGL <br/>
