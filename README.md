@@ -25,39 +25,36 @@
 003. Material：材料清單<br/>
 004. Tools：工具清冊<br/>
 005. Training Methods：施工手冊<br/>
-![](https://github.com/AHA-Taiwan/TEST-Fushan-Taitung-2013/blob/master/005-1.%20Category.png)
 ***
 ## 施工培訓教材：<br/>
 Long-term Courses<br/>
-多種木工輔助教學：https://www.youtube.com/watch?v=pnGrmdY-lMs
-修邊及修邊機教學：https://www.youtube.com/watch?v=o2khT5w8vWg
-直角導板製作教學：https://www.youtube.com/watch?v=HI0hIO2WtlA
+多種木工輔助教學：https://www.youtube.com/watch?v=pnGrmdY-lMs <br/>
+修邊及修邊機教學：https://www.youtube.com/watch?v=o2khT5w8vWg <br/>
+直角導板製作教學：https://www.youtube.com/watch?v=HI0hIO2WtlA <br/>
 Short-term Training<br/>
-21堂現場木工短講：https://www.youtube.com/watch?v=seP3WsPqg8Q&list=PL-qs3ZmkO67ekrDqbVE7KuWtCW7ybO6p2
-09堂木工基礎示範：    https://www.youtube.com/playlist?list=PLWCaUQLewGgT1zTAR6PE6jQFHDZjG5UCv
+21堂現場木工短講：https://www.youtube.com/watch?v=seP3WsPqg8Q&list=PL-qs3ZmkO67ekrDqbVE7KuWtCW7ybO6p2 <br/>
+09堂木工基礎示範：    https://www.youtube.com/playlist?list=PLWCaUQLewGgT1zTAR6PE6jQFHDZjG5UCv <br/>
 ***
 ## 工具租借：<br/>
 工具圖書館：https://github.com/AHA-Taiwan/Tool-Library
 ***
 ## 施工安全說明：<br/>
 **為參與者，投保工作保險**<br/>
-無論你找親戚家人或鄰居朋友來參與工作，皆務必為每一位參與者，投保工作保險。<br>
+無論你找親戚家人或鄰居朋友來參與工作，皆務必為每一位參與者，投保工作保險。<br/>
 <br>
-
 **工作安全守則**<br/>
-開始合作建造前，請務必先觀看，以下勞工安全影片及官方災害預防手冊：<br>
+開始合作建造前，請務必先觀看，以下勞工安全影片及官方災害預防手冊：<br/>
 <br>
-* [勞工安全衛生影片](https://www.youtube.com/playlist?list=PLz1XScQX1xx-5OFmlnAyKtxVCDZGZWF6w)<br>
-* [職業安全衛生影片專區宣導](https://www.youtube.com/playlist?list=PLtja6wTyqnAnwDr2Z4dkwwqZAQNmCmNp3)<br>
-* [勞動部職業安全衛生署-宣導資料-手冊](https://www.osha.gov.tw/1106/1196/10141/10151/10154/)<br>
-* [營造業小型工地職業災害預防宣導手冊](https://reurl.cc/p33Nr)<br>
+* [勞工安全衛生影片](https://www.youtube.com/playlist?list=PLz1XScQX1xx-5OFmlnAyKtxVCDZGZWF6w) <br>
+* [職業安全衛生影片專區宣導](https://www.youtube.com/playlist?list=PLtja6wTyqnAnwDr2Z4dkwwqZAQNmCmNp3) <br>
+* [勞動部職業安全衛生署-宣導資料-手冊](https://www.osha.gov.tw/1106/1196/10141/10151/10154/) <br>
+* [營造業小型工地職業災害預防宣導手冊](https://reurl.cc/p33Nr) <br>
 <br>
-
 **基本工地規範**<br/>
-開始合作建造前，請務必先觀看，以下官方工地安全規範：<br>
+開始合作建造前，請務必先觀看，以下官方工地安全規範：<br/>
 <br>
-* [內政部營建署勞工安全衛生工作守則](https://reurl.cc/YEEzo)<br>
-* [營造安全衛生設施標準圖解](https://reurl.cc/700xl)<br>
+* [內政部營建署勞工安全衛生工作守則](https://reurl.cc/YEEzo) <br>
+* [營造安全衛生設施標準圖解](https://reurl.cc/700xl) <br>
 ***
 
 ＊歡迎參與專案開發，Branch合併可向專案管理者提出請求
