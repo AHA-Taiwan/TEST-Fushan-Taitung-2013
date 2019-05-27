@@ -15,6 +15,15 @@
 * 臉書紀錄：https://www.facebook.com/NCTUyichu <br/>
 * 數位模型：https://skfb.ly/6KEXO<br/>
 
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/b662eb4b89474c8a9f092a9f6309c925/embed?camera=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/3d-models/clamping-w-2013-b662eb4b89474c8a9f092a9f6309c925?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Clamping W 2013</a>
+    by <a href="https://sketchfab.com/Lawrencechien?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Lawrencechien</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
 ![](https://github.com/AHA-Taiwan/TEST-Fushan-Taitung-2013/blob/master/README%20IMAGE/3D%20sim.png "3D")
 <br/>
 <br/>
